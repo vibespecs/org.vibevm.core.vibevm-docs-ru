@@ -7,7 +7,7 @@
 name = "vibevm-docs-ru"
 group = "org.vibevm.core"
 kind = "doc"
-version = "1.0.12"
+version = "1.0.13"
 epoch = 1
 format = "normal"
 authors = ["Oleg Chirukhin"]
